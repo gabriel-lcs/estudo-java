@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/condicionais/condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-java-udemy.iml" filepath="$PROJECT_DIR$/.idea/estudo-java-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-estoque/example-estoque.iml" filepath="$PROJECT_DIR$/example-estoque/example-estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/example-triangle/example-triangle.iml" filepath="$PROJECT_DIR$/example-triangle/example-triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" filepath="$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt1/exercicio-pt1.iml" filepath="$PROJECT_DIR$/exercicio-pt1/exercicio-pt1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt2/exercicio-pt2.iml" filepath="$PROJECT_DIR$/exercicio-pt2/exercicio-pt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" filepath="$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" />
