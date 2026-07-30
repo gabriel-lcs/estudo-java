@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/conceitos-oo/conceitos-oo.iml" filepath="$PROJECT_DIR$/conceitos-oo/conceitos-oo.iml" />
       <module fileurl="file://$PROJECT_DIR$/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/condicionais/condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-java-udemy.iml" filepath="$PROJECT_DIR$/.idea/estudo-java-udemy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example-estoque/example-estoque.iml" filepath="$PROJECT_DIR$/example-estoque/example-estoque.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example-triangle/example-triangle.iml" filepath="$PROJECT_DIR$/example-triangle/example-triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" filepath="$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" filepath="$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-oo2/exercicio-oo2.iml" filepath="$PROJECT_DIR$/exercicio-oo2/exercicio-oo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-oo3/exercicio-oo3.iml" filepath="$PROJECT_DIR$/exercicio-oo3/exercicio-oo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-oo4/exercicio-oo4.iml" filepath="$PROJECT_DIR$/exercicio-oo4/exercicio-oo4.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt1/exercicio-pt1.iml" filepath="$PROJECT_DIR$/exercicio-pt1/exercicio-pt1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt2/exercicio-pt2.iml" filepath="$PROJECT_DIR$/exercicio-pt2/exercicio-pt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" filepath="$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt4/exercicio-pt4.iml" filepath="$PROJECT_DIR$/exercicio-pt4/exercicio-pt4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-static/exercicio-static.iml" filepath="$PROJECT_DIR$/exercicio-static/exercicio-static.iml" />
       <module fileurl="file://$PROJECT_DIR$/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" filepath="$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" />
       <module fileurl="file://$PROJECT_DIR$/repetitivas/repetitivas.iml" filepath="$PROJECT_DIR$/repetitivas/repetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
     </modules>
   </component>
 </project>
