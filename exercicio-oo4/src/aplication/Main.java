@@ -20,7 +20,7 @@ public class Main {
         String name = scanner.nextLine();
 
         System.out.print("Is there na initial deposit (y/n)? ");
-        char escolha = scanner.nextLine().charAt(0);
+        char escolha = scanner.next().charAt(0);
 
         if (escolha == 'y'){
             System.out.print("Enter initial deposit value: ");
@@ -37,7 +37,7 @@ public class Main {
 
         account.deposito(deposit);
 
-        System.out.printf("Updated account data: %n");
+        System.out.println("Updated account data: ");
         System.out.println(account);
 
         System.out.print("Enter a withdraw value: ");
@@ -45,7 +45,9 @@ public class Main {
 
         account.saque(deposit);
 
-        System.out.printf("Updated account data: %n");
+        System.out.println("Updated account data: ");
         System.out.println(account);
+
+        scanner.close();
     }
 }

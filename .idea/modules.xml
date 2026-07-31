@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" filepath="$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" />
       <module fileurl="file://$PROJECT_DIR$/repetitivas/repetitivas.iml" filepath="$PROJECT_DIR$/repetitivas/repetitivas.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetor/vetor.iml" filepath="$PROJECT_DIR$/vetor/vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetor2/vetor2.iml" filepath="$PROJECT_DIR$/vetor2/vetor2.iml" />
     </modules>
   </component>
 </project>
