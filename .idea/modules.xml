@@ -20,10 +20,12 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios-vetor/exercicios-vetor.iml" filepath="$PROJECT_DIR$/exercicios-vetor/exercicios-vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" filepath="$PROJECT_DIR$/primeiro-programa/primeiro-programa.iml" />
       <module fileurl="file://$PROJECT_DIR$/repetitivas/repetitivas.iml" filepath="$PROJECT_DIR$/repetitivas/repetitivas.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vetor/vetor.iml" filepath="$PROJECT_DIR$/vetor/vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetor-desafio/vetor-desafio.iml" filepath="$PROJECT_DIR$/vetor-desafio/vetor-desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetor1/vetor1.iml" filepath="$PROJECT_DIR$/vetor1/vetor1.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetor2/vetor2.iml" filepath="$PROJECT_DIR$/vetor2/vetor2.iml" />
     </modules>
   </component>

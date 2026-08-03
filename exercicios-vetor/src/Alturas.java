@@ -41,7 +41,7 @@ public class Alturas {
         }
 
         System.out.printf("%nAltura média: %.2f%n", somaAltura / n);
-        System.out.printf("Pessoas com menos de 16 anos: %.1f%%%n", ((double) menores / n) * 100);
+        System.out.printf("Pessoas com menos de 16 anos: %.1f%%%n", (menores / n) * 100.0);
 
         for (int i = 0; i < n; i++){
             if (vectIdade[i] < 16){
