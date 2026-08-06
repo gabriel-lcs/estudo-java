@@ -1,4 +1,4 @@
-package aplication;
+package application;
 
 // A dona de um empreendimento possui dez quartos para alugar para estudantes sendo esses quartos identificados pelos números 0 a 9.
 
