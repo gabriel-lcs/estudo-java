@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" filepath="$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-enum-comp/exercicio-enum-comp.iml" filepath="$PROJECT_DIR$/exercicio-enum-comp/exercicio-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-listas/exercicio-listas.iml" filepath="$PROJECT_DIR$/exercicio-listas/exercicio-listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-matriz/exercicio-matriz.iml" filepath="$PROJECT_DIR$/exercicio-matriz/exercicio-matriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" filepath="$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" />
