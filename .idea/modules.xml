@@ -10,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/exemplo-estoque/exemplo-estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" filepath="$PROJECT_DIR$/exemplo-triangulo/exemplo-triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/exercicio-aula/exercicio-aula.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicio-enum-comp/exercicio-enum-comp.iml" filepath="$PROJECT_DIR$/exercicio-enum-comp/exercicio-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-listas/exercicio-listas.iml" filepath="$PROJECT_DIR$/exercicio-listas/exercicio-listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-matriz/exercicio-matriz.iml" filepath="$PROJECT_DIR$/exercicio-matriz/exercicio-matriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" filepath="$PROJECT_DIR$/exercicio-oo1/exercicio-oo1.iml" />
@@ -22,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" filepath="$PROJECT_DIR$/exercicio-pt3/exercicio-pt3.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-pt4/exercicio-pt4.iml" filepath="$PROJECT_DIR$/exercicio-pt4/exercicio-pt4.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-static/exercicio-static.iml" filepath="$PROJECT_DIR$/exercicio-static/exercicio-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-v1-enum-comp/exercicio-v1-enum-comp.iml" filepath="$PROJECT_DIR$/exercicio-v1-enum-comp/exercicio-v1-enum-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-v2-enum-comp/exercicio-v2-enum-comp.iml" filepath="$PROJECT_DIR$/exercicio-v2-enum-comp/exercicio-v2-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-vetor/exercicios-vetor.iml" filepath="$PROJECT_DIR$/exercicios-vetor/exercicios-vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
