@@ -21,8 +21,10 @@
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-pt3/exercicio-pt3.iml" filepath="$PROJECT_DIR$/logica/exercicio-pt3/exercicio-pt3.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-pt4/exercicio-pt4.iml" filepath="$PROJECT_DIR$/logica/exercicio-pt4/exercicio-pt4.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-static/exercicio-static.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-static/exercicio-static.iml" />
-      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-v1-enum-comp/exercicio-v1-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-v1-enum-comp/exercicio-v1-enum-comp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-v2-enum-comp/exercicio-v2-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-v2-enum-comp/exercicio-v2-enum-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio1-v1-enum-comp/exercicio1-v1-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio1-v1-enum-comp/exercicio1-v1-enum-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio1-v2-enum-comp/exercicio1-v2-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio1-v2-enum-comp/exercicio1-v2-enum-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio2-v1-enum-comp/exercicio2-v1-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio2-v1-enum-comp/exercicio2-v1-enum-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio2-v2-enum-comp/exercicio2-v2-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio2-v2-enum-comp/exercicio2-v2-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" filepath="$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/logica/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/logica/funcoes/funcoes.iml" />
