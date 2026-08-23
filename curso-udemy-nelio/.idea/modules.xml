@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/logica/datas/datas.iml" filepath="$PROJECT_DIR$/logica/datas/datas.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/orientacao-objeto/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-heran-poli/exemplo-heran-poli.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-heran-poli/exemplo-heran-poli.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-triangulo/exemplo-triangulo.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-triangulo/exemplo-triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/logica/exercicio-aula/exercicio-aula.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-listas/exercicio-listas.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-listas/exercicio-listas.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-pt3/exercicio-pt3.iml" filepath="$PROJECT_DIR$/logica/exercicio-pt3/exercicio-pt3.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-pt4/exercicio-pt4.iml" filepath="$PROJECT_DIR$/logica/exercicio-pt4/exercicio-pt4.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-static/exercicio-static.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-static/exercicio-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio1-heran-poli/exercicio1-heran-poli.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio1-heran-poli/exercicio1-heran-poli.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio1-v1-enum-comp/exercicio1-v1-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio1-v1-enum-comp/exercicio1-v1-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio1-v2-enum-comp/exercicio1-v2-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio1-v2-enum-comp/exercicio1-v2-enum-comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio2-v1-enum-comp/exercicio2-v1-enum-comp.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio2-v1-enum-comp/exercicio2-v1-enum-comp.iml" />
@@ -29,10 +31,11 @@
       <module fileurl="file://$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" filepath="$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/logica/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/logica/funcoes/funcoes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/heranca/heranca.iml" filepath="$PROJECT_DIR$/orientacao-objeto/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/heranca-polimorfismo/heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/orientacao-objeto/heranca-polimorfismo/heranca-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/listas/listas.iml" filepath="$PROJECT_DIR$/logica/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/logica.iml" filepath="$PROJECT_DIR$/logica/logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/matriz/matriz.iml" filepath="$PROJECT_DIR$/logica/matriz/matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/metedos-abstratos/metedos-abstratos.iml" filepath="$PROJECT_DIR$/orientacao-objeto/metedos-abstratos/metedos-abstratos.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/orientacao-objeto.iml" filepath="$PROJECT_DIR$/orientacao-objeto/orientacao-objeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/primeiro-programa/primeiro-programa.iml" filepath="$PROJECT_DIR$/logica/primeiro-programa/primeiro-programa.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/repetitivas/repetitivas.iml" filepath="$PROJECT_DIR$/logica/repetitivas/repetitivas.iml" />
