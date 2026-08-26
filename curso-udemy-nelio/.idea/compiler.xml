@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="myfirstprojectspring" />
+        <module name="userdept" />
         <module name="worker-spring" />
       </profile>
     </annotationProcessing>
@@ -14,6 +15,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="myfirstprojectspring" options="-parameters" />
+      <module name="userdept" options="-parameters" />
       <module name="worker-spring" options="-parameters" />
     </option>
   </component>
