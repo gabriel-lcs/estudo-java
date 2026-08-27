@@ -38,7 +38,7 @@ public class Reservation {
     }
 
     public long duration(){
-        return Duration.between(checkOut.atStartOfDay(), checkIn.atStartOfDay()).toDays();
+        return Duration.between(checkIn.atStartOfDay(), checkOut.atStartOfDay()).toDays();
     }
 
     public void updateDates(LocalDate checkIn, LocalDate checkOut){
@@ -50,7 +50,7 @@ public class Reservation {
 
     @Override
     public String toString() {
-        return String.format("Room %d, checkin: %s, check-out: %s, %d nights%n", roomNumber, checkIn.format(fmt), checkOut.format(fmt), duration());
+        return String.format("Room %d, checkin: %s, check-out: %s, %d nights", roomNumber, checkIn.format(fmt), checkOut.format(fmt), duration());
     }
 }
 
