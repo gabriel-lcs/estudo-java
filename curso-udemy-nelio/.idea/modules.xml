@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/arquivos/arquivos.iml" filepath="$PROJECT_DIR$/orientacao-objeto/arquivos/arquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/conceitos-oo/conceitos-oo.iml" filepath="$PROJECT_DIR$/orientacao-objeto/conceitos-oo/conceitos-oo.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/logica/condicionais/condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso-udemy-nelio.iml" filepath="$PROJECT_DIR$/.idea/curso-udemy-nelio.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-heran-poli/exemplo-heran-poli.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-heran-poli/exemplo-heran-poli.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-triangulo/exemplo-triangulo.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-triangulo/exemplo-triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-arquivos/exercicio-arquivos.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-arquivos/exercicio-arquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/exercicio-aula/exercicio-aula.iml" filepath="$PROJECT_DIR$/logica/exercicio-aula/exercicio-aula.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-enum-comp-1-v1/exercicio-enum-comp-1-v1.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-enum-comp-1-v1/exercicio-enum-comp-1-v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-enum-comp-1-v2/exercicio-enum-comp-1-v2.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-enum-comp-1-v2/exercicio-enum-comp-1-v2.iml" />
@@ -20,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v1/exercicio-excecoes-1-v1.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v1/exercicio-excecoes-1-v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v2/exercicio-excecoes-1-v2.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v2/exercicio-excecoes-1-v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v3/exercicio-excecoes-1-v3.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-1-v3/exercicio-excecoes-1-v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-2/exercicio-excecoes-2.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-excecoes-2/exercicio-excecoes-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-heran-poli-1/exercicio-heran-poli-1.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-heran-poli-1/exercicio-heran-poli-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-heran-poli-2/exercicio-heran-poli-2.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-heran-poli-2/exercicio-heran-poli-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exercicio-listas/exercicio-listas.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exercicio-listas/exercicio-listas.iml" />
