@@ -33,7 +33,7 @@ public class Installment {
         this.amount = amount;
     }
 
-    DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+    private static DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
     @Override
     public String toString() {

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/logica/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/logica/condicionais/condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso-udemy-nelio.iml" filepath="$PROJECT_DIR$/.idea/curso-udemy-nelio.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/datas/datas.iml" filepath="$PROJECT_DIR$/logica/datas/datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/default-methods/default-methods.iml" filepath="$PROJECT_DIR$/orientacao-objeto/default-methods/default-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/orientacao-objeto/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/excecoes/excecoes.iml" filepath="$PROJECT_DIR$/orientacao-objeto/excecoes/excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" filepath="$PROJECT_DIR$/orientacao-objeto/exemplo-estoque/exemplo-estoque.iml" />
@@ -42,7 +43,10 @@
       <module fileurl="file://$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" filepath="$PROJECT_DIR$/logica/exercicios-vetor/exercicios-vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/func-strings/func-strings.iml" filepath="$PROJECT_DIR$/logica/func-strings/func-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/logica/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/heranca-multipla/heranca-multipla.iml" filepath="$PROJECT_DIR$/orientacao-objeto/heranca-multipla/heranca-multipla.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/heranca-polimorfismo/heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/orientacao-objeto/heranca-polimorfismo/heranca-polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/interface-comparable/interface-comparable.iml" filepath="$PROJECT_DIR$/orientacao-objeto/interface-comparable/interface-comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/interfaces-heranca/interfaces-heranca.iml" filepath="$PROJECT_DIR$/orientacao-objeto/interfaces-heranca/interfaces-heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/listas/listas.iml" filepath="$PROJECT_DIR$/logica/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/logica.iml" filepath="$PROJECT_DIR$/logica/logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica/matriz/matriz.iml" filepath="$PROJECT_DIR$/logica/matriz/matriz.iml" />

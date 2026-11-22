@@ -15,8 +15,7 @@ public class ContractService {
         this.onlinePaymentService = onlinePaymentService;
     }
 
-    public void processContract(Contract contract, Integer months){
-        List<Installment> list = new ArrayList<>();
+    public void processContract(Contract contract, int months){
 
         double parcela = contract.getTotalValue() / months;
 
@@ -25,9 +24,8 @@ public class ContractService {
 
             LocalDate date = contract.getDate().plusMonths(i);
 
-            list.add(new Installment(date, amount));
+            contract.getInstallments().add(new Installment(date, amount));
         }
 
-        contract.setInstallments(list);
     }
 }
